@@ -1,0 +1,68 @@
+https://docs.fast.ai/vision.models.xresnet.html
+
+
+https://github.com/facebookresearch/dinov2
+
+
+
+zbudowanie multitask model to 1 task
+to co zrobili w tym shift
+
+
+dla tych wszystkich tasków
+
+
+D bounding box
+depth map
+semantic segmentation
+instance segmentation
+optical flow
+
+trening nie za długi max 14h
+
+techniki optymalizacji modeli
+
+model optimalization pytorch
+
+
+model 
+zrobić i wytrewnować na kilku sekwencjach
+
+sprawdzić czy działa
+
+na testowej puścić
+
+kiedy to działa? kiedy to nie działa? w jakich warunkach nie działa?
+
+czy wysypuje się podczas mgły, nocy czy pochmurnego
+
+wyniki jakościowe i ilościowe
+
+krzywa dla metryk dla każdego zadania osobny (oś y) na x to czas
+
+i dla całości
+
+inferencja, jak się zachowuje w czasie testowej, czyli w czasie, na jakimś długim video
+
+weź video i  puść model przez kilka minut i jak zachowuje się taka metryka w czasie
+zmiany domain to ważne jest
+
+domain adaptations
+
+przechodzenie z trybu zachmurzonego na deszcowy czy coś, i co się dzieje wtedy jakie zadanie na tym cierpi a jakie jest odporne
+
+
+najpierw multitask learning
+
+
+wagi zamrożone na sztywno jakby
+
+
+optymalizować aby był jak najmniejszyj to 2 krok
+
+
+
+
+
+
+
