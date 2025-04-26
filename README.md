@@ -22,4 +22,4 @@ https://github.com/GMvandeVen/continual-learning
 
 Uczenie wielozadaniowe:
 
-https://github.com/median-research-group/LibMTL
+https://github.com/median-research-group/LibMTLsci
